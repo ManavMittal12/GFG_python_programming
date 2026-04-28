@@ -8,13 +8,13 @@ Here's the link to the course
 
 ### Topics covered are as follows 
 1.  **Python Basics**
-    - [ ] : Background Part 1: I/O Devices, CPU, and Memory
-    - [ ] : Background Part 2: Computer Organization & Operating Systems
-    - [ ] : Programming Concepts: Why do we need programming languages?
-    - [ ] : Python Introduction: Overview, standards, and implementations
-    - [ ] : Execution: How Python programs are executed
-    - [ ] : Terminology: Common Python programming terms
-    - [ ] : Setup: Python installation and writing your first program
+    - [x] : Background Part 1: I/O Devices, CPU, and Memory
+    - [x] : Background Part 2: Computer Organization & Operating Systems
+    - [x] : Programming Concepts: Why do we need programming languages?
+    - [x] : Python Introduction: Overview, standards, and implementations
+    - [x] : Execution: How Python programs are executed
+    - [x] : Terminology: Common Python programming terms
+    - [x] : Setup: Python installation and writing your first program
     - [ ] : Documentation: Using comments in Python
 
 
