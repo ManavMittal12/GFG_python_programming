@@ -19,7 +19,7 @@ Here's the link to the course
 
 
 2.  **Variables and Data Types**
-    - [ ] : Variable Management: Variables in Python and swapping two variables
+    - [x] : Variable Management: Variables in Python and swapping two variables
     - [ ] : Introspection: id() and type() functions
     - [ ] : Data Structures Introduction:
     - [ ] : Lists Introduction
