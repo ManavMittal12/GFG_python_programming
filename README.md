@@ -15,7 +15,7 @@ Here's the link to the course
     - [x] : Execution: How Python programs are executed
     - [x] : Terminology: Common Python programming terms
     - [x] : Setup: Python installation and writing your first program
-    - [ ] : Documentation: Using comments in Python
+    - [x] : Documentation: Using comments in Python
 
 
 2.  **Variables and Data Types**
